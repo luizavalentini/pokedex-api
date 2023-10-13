@@ -1,0 +1,70 @@
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.pokeinfo {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--s3);
+    padding-bottom: var(--s4);
+    animation: fadeIn 0.5s ease-in-out forwards;
+    color: var(--color-white) !important;
+}
+
+.pokeinfo>img {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.pokeContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.pokeName {
+    font-size: var(--h1);
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: var(--s1);
+    color: var(--color-primary);
+    margin-left: var(--s3);
+}
+
+.pokeBox {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 120px));
+}
+
+.pokeLine {
+    display: flex;
+    flex-direction: column;
+    margin-left: var(--s3);
+}
+
+.pokeLine div {
+    display: flex;
+    align-items: center;
+    gap: var(--s1);
+    margin-bottom: var(--s1);
+    margin-left: var(--s3);
+    text-transform: capitalize;
+}
+
+.pokeStatus {
+    display: flex;
+    flex-direction: column;
+    gap: var(--s1);
+    margin-top: var(--s3);
+    background-color: var(--color-primary);
+    padding: 20px;
+    border-radius: var(--s4);
+    color: var(--color-dark);
+}

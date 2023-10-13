@@ -1,0 +1,369 @@
+[{
+        "id": 144,
+        "name": "articuno"
+    },
+    {
+        "id": 145,
+        "name": "zapdos"
+    },
+    {
+        "id": 146,
+        "name": "moltres"
+    },
+    {
+        "id": 150,
+        "name": "mewtwo"
+    },
+    {
+        "id": 243,
+        "name": "raikou"
+    },
+    {
+        "id": 244,
+        "name": "entei"
+    },
+    {
+        "id": 245,
+        "name": "suicune"
+    },
+    {
+        "id": 249,
+        "name": "lugia"
+    },
+    {
+        "id": 250,
+        "name": "ho-oh"
+    },
+    {
+        "id": 377,
+        "name": "regirock"
+    },
+    {
+        "id": 378,
+        "name": "regice"
+    },
+    {
+        "id": 379,
+        "name": "registeel"
+    },
+    {
+        "id": 380,
+        "name": "latias"
+    },
+    {
+        "id": 381,
+        "name": "latios"
+    },
+    {
+        "id": 382,
+        "name": "kyogre"
+    },
+    {
+        "id": 383,
+        "name": "groudon"
+    },
+    {
+        "id": 384,
+        "name": "rayquaza"
+    },
+    {
+        "id": 480,
+        "name": "uxie"
+    },
+    {
+        "id": 481,
+        "name": "mesprit"
+    },
+    {
+        "id": 482,
+        "name": "azelf"
+    },
+    {
+        "id": 483,
+        "name": "dialga"
+    },
+    {
+        "id": 484,
+        "name": "palkia"
+    },
+    {
+        "id": 485,
+        "name": "heatran"
+    },
+    {
+        "id": 486,
+        "name": "regigigas"
+    },
+    {
+        "id": 487,
+        "name": "giratina-altered"
+    },
+    {
+        "id": 488,
+        "name": "cresselia"
+    },
+    {
+        "id": 638,
+        "name": "cobalion"
+    },
+    {
+        "id": 639,
+        "name": "terrakion"
+    },
+    {
+        "id": 640,
+        "name": "virizion"
+    },
+    {
+        "id": 641,
+        "name": "tornadus-incarnate"
+    },
+    {
+        "id": 642,
+        "name": "thundurus-incarnate"
+    },
+    {
+        "id": 643,
+        "name": "reshiram"
+    },
+    {
+        "id": 644,
+        "name": "zekrom"
+    },
+    {
+        "id": 645,
+        "name": "landorus-incarnate"
+    },
+    {
+        "id": 646,
+        "name": "kyurem"
+    },
+    {
+        "id": 716,
+        "name": "xerneas"
+    },
+    {
+        "id": 717,
+        "name": "yveltal"
+    },
+    {
+        "id": 718,
+        "name": "zygarde-50"
+    },
+    {
+        "id": 773,
+        "name": "silvally"
+    },
+    {
+        "id": 785,
+        "name": "tapu-koko"
+    },
+    {
+        "id": 786,
+        "name": "tapu-lele"
+    },
+    {
+        "id": 787,
+        "name": "tapu-bulu"
+    },
+    {
+        "id": 788,
+        "name": "tapu-fini"
+    },
+    {
+        "id": 789,
+        "name": "cosmog"
+    },
+    {
+        "id": 790,
+        "name": "cosmoem"
+    },
+    {
+        "id": 791,
+        "name": "solgaleo"
+    },
+    {
+        "id": 792,
+        "name": "lunala"
+    },
+    {
+        "id": 800,
+        "name": "necrozma"
+    },
+    {
+        "id": 888,
+        "name": "zacian"
+    },
+    {
+        "id": 889,
+        "name": "zamazenta"
+    },
+    {
+        "id": 890,
+        "name": "eternatus"
+    },
+    {
+        "id": 891,
+        "name": "kubfu"
+    },
+    {
+        "id": 892,
+        "name": "urshifu-single-strike"
+    },
+    {
+        "id": 894,
+        "name": "regieleki"
+    },
+    {
+        "id": 895,
+        "name": "regidrago"
+    },
+    {
+        "id": 896,
+        "name": "glastrier"
+    },
+    {
+        "id": 897,
+        "name": "spectrier"
+    },
+    {
+        "id": 898,
+        "name": "calyrex"
+    },
+    {
+        "id": 905,
+        "name": "enamorus-incarnate"
+    },
+    {
+        "id": 10007,
+        "name": "giratina-origin"
+    },
+    {
+        "id": 10019,
+        "name": "tornadus-therian"
+    },
+    {
+        "id": 10020,
+        "name": "thundurus-therian"
+    },
+    {
+        "id": 10021,
+        "name": "landorus-therian"
+    },
+    {
+        "id": 10022,
+        "name": "kyurem-black"
+    },
+    {
+        "id": 10023,
+        "name": "kyurem-white"
+    },
+    {
+        "id": 10043,
+        "name": "mewtwo-mega-x"
+    },
+    {
+        "id": 10044,
+        "name": "mewtwo-mega-y"
+    },
+    {
+        "id": 10062,
+        "name": "latias-mega"
+    },
+    {
+        "id": 10063,
+        "name": "latios-mega"
+    },
+    {
+        "id": 10077,
+        "name": "kyogre-primal"
+    },
+    {
+        "id": 10078,
+        "name": "groudon-primal"
+    },
+    {
+        "id": 10079,
+        "name": "rayquaza-mega"
+    },
+    {
+        "id": 10118,
+        "name": "zygarde-10-power-construct"
+    },
+    {
+        "id": 10119,
+        "name": "zygarde-50-power-construct"
+    },
+    {
+        "id": 10120,
+        "name": "zygarde-complete"
+    },
+    {
+        "id": 10155,
+        "name": "necrozma-dusk"
+    },
+    {
+        "id": 10156,
+        "name": "necrozma-dawn"
+    },
+    {
+        "id": 10157,
+        "name": "necrozma-ultra"
+    },
+    {
+        "id": 10169,
+        "name": "articuno-galar"
+    },
+    {
+        "id": 10170,
+        "name": "zapdos-galar"
+    },
+    {
+        "id": 10171,
+        "name": "moltres-galar"
+    },
+    {
+        "id": 10188,
+        "name": "zacian-crowned"
+    },
+    {
+        "id": 10189,
+        "name": "zamazenta-crowned"
+    },
+    {
+        "id": 10190,
+        "name": "eternatus-eternamax"
+    },
+    {
+        "id": 10191,
+        "name": "urshifu-rapid-strike"
+    },
+    {
+        "id": 10193,
+        "name": "calyrex-ice"
+    },
+    {
+        "id": 10194,
+        "name": "calyrex-shadow"
+    },
+    {
+        "id": 10226,
+        "name": "urshifu-single-strike-gmax"
+    },
+    {
+        "id": 10227,
+        "name": "urshifu-rapid-strike-gmax"
+    },
+    {
+        "id": 10245,
+        "name": "dialga-origin"
+    },
+    {
+        "id": 10246,
+        "name": "palkia-origin"
+    },
+    {
+        "id": 10249,
+        "name": "enamorus-therian"
+    }
+]

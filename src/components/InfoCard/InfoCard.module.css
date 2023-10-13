@@ -1,0 +1,110 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+.co {
+  min-height: 100vh;
+  background: var(--color-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.card {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  max-width: 650px;
+  box-shadow: var(--shadow-2);
+  border-radius: 20px;
+  background: linear-gradient(180deg, #f5db13 0%, #f2b807 100%);
+  padding: 20px;
+}
+
+.pokemon {
+  width: 100%;
+}
+
+.teste1 {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.teste2 {
+  border-radius: 20px;
+}
+
+.nomegeracao {
+  display: flex;
+}
+
+.habilidades {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: var(--color-dark);
+  margin-bottom: 8px;
+}
+
+.points {
+  border-radius: 8px;
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  background-color: var(--color-dark);
+  margin-bottom: 8px;
+}
+
+.nome {
+  color: var(--color-dark);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: var(--h1) !important;
+}
+
+.generation {
+  color: var(--color-white);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: var(--h1) !important;
+}
+
+.abilidades {
+  color: var(--color-third);
+  font-weight: 400;
+  font-size: var(--h4);
+  margin: 0;
+  margin-right: 15px;
+}
+
+.city {
+  display: flex;
+  color: var(--color-white);
+  font-weight: 400;
+  font-size: var(--h3);
+  margin: 0;
+}
+
+.poderes {
+  border-radius: 8px;
+  display: flex;
+  background-color: var(--color-dark);
+  padding: 10px;
+}
+
+.block {
+  display: block;
+  text-transform: capitalize;
+  color: var(--color-white);
+  font-size: var(--h3);
+}
