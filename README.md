@@ -1,4 +1,4 @@
-# Pokedex - API 
+# pokedex - API 
 
 ## Description
 The Pokedex API project is a web and responsive application that utilizes a RESTful Pokémon API to provide users with detailed information about different Pokémon species, their characteristics, types, moves, and more. The main goal is to allow Pokémon fans to access and explore comprehensive data about Pokémon in an easy and interactive way.
